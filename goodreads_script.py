@@ -16,9 +16,6 @@ def main():
             title = row[1]
             author = row[2]
             librarySearch(title, author)
-            #print(row)
-  print("Field names are:" + ", ".join(field for field in fields))
-
 
 # make function for call to library search
 def librarySearch(title, author):
@@ -31,30 +28,16 @@ def librarySearch(title, author):
     try:
       request = urllib.request.Request(url)
       content = urllib.request.urlopen(request)
-      parse = BeautifulSoup(content, 'html.parser')
-      span_elems = parse.find_all("span", attrs={"style": "color:RED"})
-      print(span_elems)
-      headings = []
-      #elems = parse.table.table.table.table.find_all("span") # don't really need author and title name, can just get it from original input
-      title = title.replace('%20', ' ')
-      author = author.replace('%20', ' ')
-      #writeToFile(title, author)
-      #for e in elems:
-      #print(elems)
-      # table_date = table.find_all("tr")
-      # data = []
-      # for td in table_date.find_all("td"):
-      #    headings.append(td.b.text.replace("\n", '').strip())
-
-      # author = parse.table.text.strip().replace('\n', ',')
-      # title = parse.table.text.strip().replace('\n', ',')
-      # writeToFile(text1)
-      #print(author, title)
+      soup = BeautifulSoup(content, 'html.parser')
+      author_chunk = soup.find("td", class_="bibInfoData").text
+      title_chunk = soup.find("td", string="Title").next_sibling.next_sibling.text
+      location_chunk = soup.find("tr", class_="bibItemsEntry").text
+      writeToFile(author_chunk, title_chunk, location_chunk)
     except Exception as e:
       print('Error')
       
-def writeToFile(title, author):
-   lines = [title, author]
+def writeToFile(author, title, location):
+   lines = [author, title, location]
    with open('libraryBooks.txt', 'a') as f:
     # f.write(title, author)
     for line in lines:
