@@ -1,1 +1,2 @@
 # goodreads-script
+A simple python script I made to compare my goodreads shelf to my local library. Goodreads has an API but they are no longer giving out developer keys so I exported my want-to-read shelf into a CSV. I then used that to search my local library catalog and return a list of books that my local library has.
