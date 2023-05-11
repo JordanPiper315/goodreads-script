@@ -1,420 +1,209 @@
-
 Van Pelt, Shelby, author.
-
-
 Remarkably bright creatures : a novel / Shelby Van Pelt.
-
- ARC New Arrival 
-
- MCN FICTION VAN PELT  
- DUE 05-13-23 
+ARC New Arrival  MCN FICTION VAN PELT   DUE 05-13-23
+BKM New Arrival  MCN FICTION VAN PELT   CHECK SHELF
+BLK New Arrival  MCN FICTION VAN PELT   ON HOLDSHELF
+EUR New Arrivals  MCN FICTION VAN PELT   IN TRANSIT +1 HOLD
+EUR New Arrivals  FICTION VAN PELT   DUE 05-24-23
+FOR New Arrival  MCN FICTION VAN PELT   DUE 05-17-23
+GAR New Arrival  MCN FICTION VAN PELT   DUE 05-05-23
+HOA Fiction  FICTION VAN PELT   DUE 05-20-23
 
 Grandin, Temple, author.
-
-
 Visual thinking : the hidden gifts of people who think in pictures, patterns, and abstractions / Temple Grandin ; with Betsy Lerner.
-
- MCK New Arrival 
-
- 152.14 GRANDIN  
- CHECK SHELF 
+MCK New Arrival  152.14 GRANDIN   CHECK SHELF
+WCK New Arrival  MCN 152.14 GRANDIN   DUE 04-21-23
 
 Aaker, Jennifer Lynn, author.
-
-
 Humor, seriously : why humor is a secret weapon in business and life and how anyone can harness it. Even you. / Jennifer Aaker & Naomi Bagdonas.
-
- ARC Non-Fiction 
-
- 152.43 AAKER  
- CHECK SHELF 
+ARC Non-Fiction  152.43 AAKER   CHECK SHELF
+EUR New Arrivals  152.43 AAKER   CHECK SHELF
 
 Brewer, Judson, author.
-
-
 Unwinding anxiety : new science shows how to break the cycles of worry and fear to heal your mind / Judson Brewer, MD, PhD.
-
- TRI New Arrival 
-
- 152.46 BREWER  
- CHECK SHELF 
+TRI New Arrival  152.46 BREWER   CHECK SHELF
 
 Perel, Esther.
-
-
 Mating in captivity [sound recording] : [reconciling the erotic & the domestic] / Esther Perel.
-
- EUR Audio-visual 2nd Flr. 
-
- BCD 306.87 PEREL  
- CHECK SHELF 
+EUR Audio-visual 2nd Flr.  BCD 306.87 PEREL   CHECK SHELF
 
 Zevin, Gabrielle, author.
-
-
 Tomorrow, and tomorrow, and tomorrow / Gabrielle Zevin.
-
- ARC New Arrival 
-
- MCN FICTION ZEVIN  
- DUE 05-10-23 
+ARC New Arrival  MCN FICTION ZEVIN   DUE 05-10-23
+ARC New Arrival  MCN FICTION ZEVIN   DUE 05-19-23
+EUR New Arrivals  FICTION ZEVIN   DUE 04-22-23
+FOR New Arrival  FICTION ZEVIN   DUE 06-06-23
+GAR New Arrival  MCN FICTION ZEVIN   DUE 06-06-23
+HOA New Arrival  MCN FICTION ZEVIN   DUE 06-01-23
+MCK Fiction  FICTION ZEVIN   ON HOLDSHELF
+WCK Fiction  FICTION ZEVIN   IN TRANSIT
 
 Barrett, Andrea.
-
-
 The voyage of the Narwhal : a novel / Andrea Barrett.
-
- ARC Fiction 
-
- FICTION BARRETT  
- CHECK SHELF 
+ARC Fiction  FICTION BARRETT   CHECK SHELF
+BLK Fiction  FICTION BARRETT   CHECK SHELF
+EUR Fiction  FICTION BARRETT   CHECK SHELF
 
 Bacigalupi, Paolo.
-
-
 The windup girl / Paolo Bacigalupi.
-
- ARC Fiction 
-
- SF BACIGALUP  
- CHECK SHELF 
+ARC Fiction  SF BACIGALUP   CHECK SHELF
+EUR Fiction  SF BACIGALUP   CHECK SHELF
+TRI Fiction  SF BACIGALUP   LOST AND PAID
 
 Felton, Tom, 1987- author.
-
-
 Beyond the wand : the magic and mayhem of growing up a wizard / Tom Felton.
-
- TRI New Arrival 
-
- 791.4302 FELTON  
- CHECK SHELF 
+TRI New Arrival  791.4302 FELTON   CHECK SHELF
 
 Madison, Holly, author.
-
-
 Down the rabbit hole : curious adventures and cautionary tales of a former Playboy bunny / Holly Madison.
-
- EUR Non-Fiction 
-
- 791.45028 MADISON  
- CHECK SHELF 
+EUR Non-Fiction  791.45028 MADISON   CHECK SHELF
 
 Tabor, James M.
-
-
 Blind descent : the quest to discover the deepest place on earth / James M. Tabor.
-
- EUR Non-Fiction 
-
- 796.525 TABOR  
- CHECK SHELF 
+EUR Non-Fiction  796.525 TABOR   CHECK SHELF
+EUR Non-Fiction  796.525 TABOR   CHECK SHELF
 
 Braverman, Blair, author.
-
-
 Welcome to the goddamn ice cube : chasing fear and finding home in the great white north / Blair Braverman.
-
- ARC Non-Fiction 
-
- 910.9113 BRAVERMAN  
- CHECK SHELF 
+ARC Non-Fiction  910.9113 BRAVERMAN   CHECK SHELF
 
 Sherr, Lynn.
-
-
 Sally Ride : America's First Woman in Space / Lynn Sherr.
-
- EUR Non-Fiction 
-
- 921 RIDE  
- CHECK SHELF 
+EUR Non-Fiction  921 RIDE   CHECK SHELF
+EUR Non-Fiction  921 RIDE   CHECK SHELF
 
 Hodges, Andrew.
-
-
 Alan Turing : the enigma : the book that inspired the film The Imitation Game / Andrew Hodges ; [with a foreword by Douglas Hofstadter and a new preface by the author].
-
- EUR Non-Fiction 
-
- 510.92 HODGES  
- CHECK SHELF 
+EUR Non-Fiction  510.92 HODGES   CHECK SHELF
+EUR Non-Fiction  510.92 HODGES   CHECK SHELF
+EUR Non-Fiction  510.92 HODGES   IN TRANSIT
+FER Non-Fiction  510.92 HODGES   CHECK SHELF
 
 Christian, Brian, 1984- author.
-
-
 Algorithms to live by : the computer science of human decisions / Brian Christian and Tom Griffiths.
-
- EUR Non-Fiction 
-
- 153.43 CHRISTIAN  
- CHECK SHELF 
+EUR Non-Fiction  153.43 CHRISTIAN   CHECK SHELF
 
 Heller, Peter, 1959- author.
-
-
 The guide : a novel / Peter Heller.
-
- BLK New Arrival 
-
- MCN FICTION HELLER  
- CHECK SHELF 
+BLK New Arrival  MCN FICTION HELLER   CHECK SHELF
+EUR New Arrivals  MCN FICTION HELLER   Ready to Shelve
+FER Fiction  FICTION HELLER   CHECK SHELF
+FOR New Arrival  FICTION HELLER   DUE 05-30-23
 
 Lembke, Anna, 1967- author.
-
-
 Dopamine nation : finding balance in the age of indulgence / Anna Lembke, M.D.
-
- ARC New Arrival 
-
- MCN 152.42 LEMBKE  
- Ready to Shelve 
+ARC New Arrival  MCN 152.42 LEMBKE   Ready to Shelve
 
 Jans, Nick, 1955-
-
-
 Grizzly maze : Timothy Treadwell's fatal obsession with Alaskan bears / Nick Jans.
-
- EUR Non-Fiction 
-
- 599.784 JANS  
- CHECK SHELF 
+EUR Non-Fiction  599.784 JANS   CHECK SHELF
 
 Tsui, Bonnie, author.
-
-
 Why we swim / Bonnie Tsui.
-
- TRI New Arrival 
-
- 797.21 TSUI  
- CHECK SHELF 
+TRI New Arrival  797.21 TSUI   CHECK SHELF
 
 Kurlansky, Mark.
-
-
 Cod : a biography of the fish that changed the world / Mark Kurlansky.
-
- ARC Non-Fiction 
-
- 333.956 KURLANSKY  
- DUE 05-18-23 
+ARC Non-Fiction  333.956 KURLANSKY   DUE 05-18-23
+EUR Non-Fiction  333.956 KURLANSKY   CHECK SHELF
+EUR Non-Fiction  333.956 KURLANSKY   CHECK SHELF
 
 Lesser, Elizabeth, author.
-
-
 Cassandra speaks : when women are the storytellers, the human story changes / Elizabeth Lesser.
-
- EUR Non-Fiction 
-
- 305.42 LESSER  
- IN TRANSIT 
+EUR Non-Fiction  305.42 LESSER   CHECK SHELF
 
 Douglas, John E.
-
-
 The anatomy of motive : the FBI's legendary mindhunter explores the key to understanding and catching violent criminals / John Douglas and Mark Olshaker.
-
- EUR Non-Fiction 
-
- 364.15 DOUGLAS  
- CHECK SHELF 
+EUR Non-Fiction  364.15 DOUGLAS   CHECK SHELF
 
 Kolker, Robert, author.
-
-
 Lost girls : an unsolved American mystery / Robert Kolker.
-
- HOA Non-Fiction 
-
- 364.1523 KOLKER  
- CHECK SHELF 
+HOA Non-Fiction  364.1523 KOLKER   CHECK SHELF
 
 McDermid, Val, author.
-
-
 Forensics : what bugs, burns, prints, DNA, and more tell us about crime / Val McDermid.
-
- EUR Non-Fiction 
-
- 363.25 MCDERMID  
- CHECK SHELF 
+EUR Non-Fiction  363.25 MCDERMID   CHECK SHELF
+EUR Non-Fiction  363.25 MCDERMID   CHECK SHELF
 
 Berwald, Juli, author.
-
-
 Spineless : the science of jellyfish and the art of growing a backbone / Juli Berwald ; illustrations by Rachel Ivanyi.
-
- EUR Non-Fiction 
-
- 593.53 BERWALD  
- CHECK SHELF 
+EUR Non-Fiction  593.53 BERWALD   CHECK SHELF
 
 Zimmer, Carl, 1966- author.
-
-
 She has her mother's laugh : the powers, perversions, and potential of heredity / Carl Zimmer.
-
- EUR Non-Fiction 
-
- 576.5 ZIMMER  
- CHECK SHELF 
+EUR Non-Fiction  576.5 ZIMMER   CHECK SHELF
 
 Shubin, Neil.
-
-
 Your inner fish : a journey into the 3.5-billion-year history of the human body / Neil Shubin.
-
- EUR Non-Fiction 
-
- 611 SHUBIN  
- CHECK SHELF 
+EUR Non-Fiction  611 SHUBIN   CHECK SHELF
+EUR Non-Fiction  611 SHUBIN   CHECK SHELF
 
 Ridley, Matt.
-
-
 Genome : the autobiography of a species in 23 chapters / Matt Ridley.
-
- ARC Non-Fiction 
-
- 599.935 RIDLEY  
- CHECK SHELF 
+ARC Non-Fiction  599.935 RIDLEY   CHECK SHELF
 
 Dawkins, Richard, 1941-
-
-
 The selfish gene / Richard Dawkins.
-
- MCK Non-Fiction 
-
- 576.5 DAWKINS  
- CHECK SHELF 
+MCK Non-Fiction  576.5 DAWKINS   CHECK SHELF
 
 Roach, Mary.
-
-
 Stiff : the curious lives of human cadavers / Mary Roach.
-
- EUR Non-Fiction 
-
- 611 ROACH  
- DUE 06-02-23 
+EUR Non-Fiction  611 ROACH   DUE 06-02-23
+EUR Non-Fiction  611 ROACH   CHECK SHELF
+FOR Non-Fiction  611 ROACH   CHECK SHELF
+HOA Non-Fiction  611 ROACH   CHECK SHELF
+TRI Non-Fiction  611 ROACH   CHECK SHELF
 
 De Becker, Gavin.
-
-
 The gift of fear : survival signals that protect us from violence / Gavin de Becker.
-
- EUR Non-Fiction 
-
- 362.88 DE BECKER  
- CHECK SHELF 
+EUR Non-Fiction  362.88 DE BECKER   CHECK SHELF
 
 Ferencik, Erica, author.
-
-
 The river at night / Erica Ferencik.
-
- EUR Fiction 
-
- FICTION FERENCIK  
- CHECK SHELF 
+EUR Fiction  FICTION FERENCIK   CHECK SHELF
 
 Pyenson, Nick, author.
-
-
 Spying on whales : the past, present, and future of earth's most awesome creatures / Nick Pyenson.
-
- ARC Non-Fiction 
-
- 599.5 PYENSON  
- CHECK SHELF 
+ARC Non-Fiction  599.5 PYENSON   CHECK SHELF
 
 Hawking, Stephen, 1942-2018, author.
-
-
 Brief answers to the big questions / Stephen Hawking.
-
- ARC Non-Fiction 
-
- 500 HAWKING  
- CHECK SHELF 
+ARC Non-Fiction  500 HAWKING   CHECK SHELF
+TRI Non-Fiction  500 HAWKING   CHECK SHELF
 
 Jahren, Hope, author.
-
-
 Lab girl / Hope Jahren.
-
- ARC Non-Fiction 
-
- 921 JAHREN  
- CHECK SHELF 
+ARC Non-Fiction  921 JAHREN   CHECK SHELF
+BKM Non-Fiction  921 JAHREN   CHECK SHELF
+BLK Non-Fiction  921 JAHREN   CHECK SHELF
+EUR Non-Fiction  921 JAHREN   DUE 05-19-23
+GAR Non-Fiction  921 JAHREN   CHECK SHELF
 
 Dekker, Ted, 1962-
-
-
 Skin / Ted Dekker.
-
- EUR Fiction 
-
- FICTION DEKKER  
- CHECK SHELF 
+EUR Fiction  FICTION DEKKER   CHECK SHELF
 
 MacLeod, Bracken, author.
-
-
 Stranded / Bracken McLeod.
-
- EUR Fiction 
-
- FICTION MACLEOD  
- CHECK SHELF 
+EUR Fiction  FICTION MACLEOD   CHECK SHELF
 
 Parsons, Kelly.
-
-
 Doing harm / Kelly Parsons.
-
- MCK Fiction 
-
- FICTION PARSONS  
- CHECK SHELF 
+MCK Fiction  FICTION PARSONS   CHECK SHELF
 
 Marwood, Alex.
-
-
 The killer next door / Alex Marwood.
-
- EUR Fiction 
-
- FICTION MARWOOD  
- CHECK SHELF 
+EUR Fiction  FICTION MARWOOD   CHECK SHELF
 
 Pavone, Chris.
-
-
 The accident : a novel / Chris Pavone.
-
- EUR Fiction 
-
- FICTION PAVONE  
- CHECK SHELF 
+EUR Fiction  FICTION PAVONE   CHECK SHELF
 
 McKenzie, C. B.
-
-
 Bad country : a novel / CB McKenzie.
-
- EUR Fiction 
-
- MYS MCKENZIE  
- CHECK SHELF 
+EUR Fiction  MYS MCKENZIE   CHECK SHELF
 
 Tremblay, Paul, author.
-
-
 A head full of ghosts : a novel / Paul Tremblay.
+EUR Fiction  ZIP BOOK   DUE 06-14-23 +1 HOLD
 
- EUR Fiction 
-
- ZIP BOOK  
- DUE 06-14-23 +1 HOLD 

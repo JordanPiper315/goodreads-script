@@ -3,7 +3,6 @@ from bs4 import BeautifulSoup
 import csv
 
 filename = "goodreads_library_export.csv"
-
 def main():
   fields = []
   rows = []
@@ -23,7 +22,6 @@ def librarySearch(title, author):
        title = title.replace(' ', '%20')
     if author.find(' '):
        author = author.replace(' ', '%20')
-    # print(title, author)
     url = f"https://libcat.co.humboldt.ca.us/search~S13/X?SEARCH=t:({title})%20and%20a:({author})&searchscope=13&SORT=D"
     try:
       request = urllib.request.Request(url)
@@ -31,15 +29,20 @@ def librarySearch(title, author):
       soup = BeautifulSoup(content, 'html.parser')
       author_chunk = soup.find("td", class_="bibInfoData").text
       title_chunk = soup.find("td", string="Title").next_sibling.next_sibling.text
-      location_chunk = soup.find("tr", class_="bibItemsEntry").text
-      writeToFile(author_chunk, title_chunk, location_chunk)
+      location_chunk = soup.find_all("tr", class_="bibItemsEntry")
+      author_chunk = author_chunk.strip()
+      title_chunk = title_chunk.strip()
+      location_chunk2 = ''
+      for location in location_chunk:
+         location = location.text.strip().replace("\n", '')
+         location_chunk2 += location + '\n'
+      writeToFile(author_chunk, title_chunk, location_chunk2)
     except Exception as e:
       print('Error')
       
 def writeToFile(author, title, location):
    lines = [author, title, location]
    with open('libraryBooks.txt', 'a') as f:
-    # f.write(title, author)
     for line in lines:
         f.write(line)
         f.write('\n')
